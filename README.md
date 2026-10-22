@@ -1,7 +1,9 @@
 # Sales \& Revenue Performance Analytics | Interactive Excel Dashboard
 
 **Tools: Microsoft Excel · PivotTables · PivotCharts · Slicers · Timeline Filters · GETPIVOTDATA · Structured Table References**
+## Dashboard Preview
 
+![Interactive Sales and Revenue Dashboard](dashboard_preview.png)
 ## Project overview
 
 This portfolio project explores sales performance across products, regions, channels, and customer segments using an interactive Microsoft Excel dashboard. The goal is to turn transactional data into accessible performance metrics and business questions that decision-makers can investigate through filtering.
